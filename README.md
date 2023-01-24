@@ -4,11 +4,13 @@ Az MD Guestbook egy vendégkönyv app. Felhasználók által létrehozott témá
 
 Letöltés után felkell telepíteni az npm modulokat.
 
-npm install
+*npm* install
 
 Az apphoz tartozik egy backend. Ebben vannak statikus objektumok amik az adatokat tartalmazzák. Ez a usersDatabase és bookDatabase. Itt az index.js file amit futtatni kell az app elindítása előtt. Ez a localhost:8080 portot figyeli.
 
-backend_guestbook/          node index.js
+*cd* backend_guestbook/
+
+*node* index.js
 
 ## Előre létrehozott teszt felhasználók:
 
