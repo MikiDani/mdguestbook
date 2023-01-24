@@ -2,7 +2,22 @@
 
 Az MD Guestbook egy vendégkönyv app. Felhasználók által létrehozott témákat tudunk olvasni. Ha regisztrálunk vagy bejelentkezünk akkor üzenetet tudunk írni a témákhoz, illetve csinálhatunk saját témát.
 
-Az apphoz tartozik egy backend index.js ami az adatbázisokat tartalmazza. usersDatabase és bookDatabase. Ez a localhost:8080 portot figyeli. Ezt futtatni kell az app elindítása előtt.
+Letöltés után felkell telepíteni az npm modulokat.
+
+npm install
+
+Az apphoz tartozik egy backend. Ebben vannak statikus objektumok amik az adatokat tartalmazzák. Ez a usersDatabase és bookDatabase. Itt az index.js file amit futtatni kell az app elindítása előtt. Ez a localhost:8080 portot figyeli.
+
+backend_guestbook/          node index.js
+
+## Előre létrehozott teszt felhasználók:
+
+| username | email           | password |
+|----------|:---------------:|----------|
+| Dániel   | mail@mail.hu    | 123456   |
+| Petike   | petike@mail.hu  | 654321   |
+| Zsuzsika | zsuzsi@gmail.hu | abcdef   |
+
 
 Főként saját CSS-t írtam. Viszont CSS Framework-nek MUI-ból használtam a Box, TextField, Button elemeket.
 
