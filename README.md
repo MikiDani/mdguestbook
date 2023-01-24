@@ -16,6 +16,10 @@ Ha elindítjuk és fut a backendünk akkor ezt az üzenetet kapjuk:
 
 "MD guestbook backend app is listening on 8080-port!"
 
+Ezután már csak a frontend vendékönyvünket kell elindítanunk:
+
+*npm* start
+
 ## Előre létrehozott teszt felhasználók:
 
 | username | email           | password |
