@@ -1,4 +1,4 @@
-# MD GUESTBOOK
+# MD GUESTBOOK | REACT FarmeWork
 
 Az MD Guestbook egy vendégkönyv app. Felhasználók által létrehozott témákat tudunk olvasni. Ha regisztrálunk vagy bejelentkezünk akkor üzenetet tudunk írni a témákhoz, illetve csinálhatunk saját témát.
 
