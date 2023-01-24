@@ -12,6 +12,10 @@ Az apphoz tartozik egy backend. Ebben vannak statikus objektumok amik az adatoka
 
 *node* index.js
 
+Ha elindítjuk és fut a backendünk akkor ezt az üzenetet kapjuk:
+
+"MD guestbook backend app is listening on 8080-port!"
+
 ## Előre létrehozott teszt felhasználók:
 
 | username | email           | password |
